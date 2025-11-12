@@ -1,0 +1,4 @@
+fsm_auto.c:20:19:clamp_min1	16	static
+fsm_auto.c:21:19:clamp_amber	16	static
+fsm_auto.c:26:5:checkValidTime	24	static
+fsm_auto.c:31:6:fsm_auto_run	8	static
